@@ -15,9 +15,10 @@ Install the package **aem-jpmc-breadcrumb-1.0.zip** using the AEM package manage
 - This implementation would require the content user to edit each page to have a custom breadcrumb trail
 
 ## Alternative Approach
-- Manage a seperate navigation tree can be used to handle navigation and would represent the sitemap and bresdcrumb more appropriately.
-- Content user will not have to edit every page in the section of a site to make breadcrum changes
+- Manage a seperate navigation tree can be used to handle navigation and would represent the sitemap and breadcrumb more appropriately.
+- Content user will not have to edit every page in the section of a site to make breadcrum changes.
 - The breadcrumb compoment will read elements from the navigation tree dynamically. 
+- Only the navigation tree would have to activated/published and not all the pages.
 
 
 
