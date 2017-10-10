@@ -4,7 +4,7 @@ This is an AEM 6.3 reference implementation for the breadcrumb component
 
 ## How to build
 
-Install the package aem-jpmc-breadcrumb-1.0.zip using the AEM package manager.
+Install the package ##aem-jpmc-breadcrumb-1.0.zip## using the AEM package manager.
 
 ## Implementation
 
